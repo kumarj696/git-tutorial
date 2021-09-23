@@ -1,2 +1,2 @@
 # git tutorial
-git updates  
+git updates  from all the git hub from kumar j
